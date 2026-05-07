@@ -56,6 +56,13 @@ In this section, I combined both tables to understand revenue and customer order
 SQL file included in repository.
 
 ---
+## 📊 Sample Results
+
+### Top 5 Highest Revenue Orders
+![Top 5 Orders](results/top_5_orders.png)
+
+### Most and Least Ordered Items
+![Order Analysis](results/least_most_orders.png)
 
 ## Tools & SQL Concepts Used
 - SQL  
